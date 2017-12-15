@@ -62,8 +62,8 @@
 					"top": "ironchest:items/shulker/crystal/top",
 					"bottom": "ironchest:items/shulker/crystal/bottom",
 					"side": "ironchest:items/shulker/crystal/side",
-					"overlay_end": "ironchest:items/shulker/crystal/overlay_green",
-					"overlay_side": "ironchest:items/shulker/crystal/overlay_green"
+					"overlay_end": "ironchest:items/shulker/crystal/overlay_end_green",
+					"overlay_side": "ironchest:items/shulker/crystal/overlay_side_green"
 				}
 			},
 			"obsidian": { 
