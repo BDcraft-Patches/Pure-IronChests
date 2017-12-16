@@ -8,7 +8,7 @@
 		"variant": {
 			"copper": {
 				"textures": {
-					"particle": "ironchest:blocks/copper_break",
+					"particle": "ironchest:items/chest/copper_front",
 					"top": "ironchest:items/chest/copper_top",
 					"bottom": "ironchest:items/chest/copper_bottom",
 					"front": "ironchest:items/chest/copper_front",
@@ -18,8 +18,9 @@
 				}
 			},
 			"crystal": {
+				"model": "ironchest:iron_chest_crystal",
 				"textures": {
-					"particle": "ironchest:blocks/crystal_break",
+					"particle": "ironchest:items/chest/crystal_front",
 					"top": "ironchest:items/chest/crystal_top",
 					"bottom": "ironchest:items/chest/crystal_bottom",
 					"front": "ironchest:items/chest/crystal_front",
@@ -30,7 +31,7 @@
 			},
 			"diamond": {
 				"textures": {
-					"particle": "ironchest:blocks/diamond_break",
+					"particle": "ironchest:items/chest/diamond_front",
 					"top": "ironchest:items/chest/diamond_top",
 					"bottom": "ironchest:items/chest/diamond_bottom",
 					"front": "ironchest:items/chest/diamond_front",
@@ -41,7 +42,7 @@
 			},
 			"dirtchest9000": {
 				"textures": {
-					"particle": "blocks/dirt",
+					"particle": "ironchest:items/chest/dirt_front",
 					"top": "ironchest:items/chest/dirt_top",
 					"bottom": "ironchest:items/chest/dirt_bottom",
 					"front": "ironchest:items/chest/dirt_front",
@@ -52,7 +53,7 @@
 			},
 			"gold": {
 				"textures": {
-					"particle": "ironchest:blocks/gold_break",
+					"particle": "ironchest:items/chest/gold_front",
 					"top": "ironchest:items/chest/gold_top",
 					"bottom": "ironchest:items/chest/gold_bottom",
 					"front": "ironchest:items/chest/gold_front",
@@ -63,7 +64,7 @@
 			},
 			"iron": {
 				"textures": {
-					"particle": "ironchest:blocks/iron_break",
+					"particle": "ironchest:items/chest/iron_front",
 					"top": "ironchest:items/chest/iron_top",
 					"bottom": "ironchest:items/chest/iron_bottom",
 					"front": "ironchest:items/chest/iron_front",
@@ -74,7 +75,7 @@
 			},
 			"obsidian": {
 				"textures": {
-					"particle": "blocks/obsidian",
+					"particle": "ironchest:items/chest/obsidian_front",
 					"top": "ironchest:items/chest/obsidian_top",
 					"bottom": "ironchest:items/chest/obsidian_bottom",
 					"front": "ironchest:items/chest/obsidian_front",
@@ -85,7 +86,7 @@
 			},
 			"silver": {
 				"textures": {
-					"particle": "ironchest:blocks/silver_break",
+					"particle": "ironchest:items/chest/silver_front",
 					"top": "ironchest:items/chest/silver_top",
 					"bottom": "ironchest:items/chest/silver_bottom",
 					"front": "ironchest:items/chest/silver_front",
